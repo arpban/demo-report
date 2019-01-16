@@ -1,0 +1,66 @@
+@import '../variables';
+
+$color-bg-sidebar-top: black;
+$color-sidebar-top: white;
+
+$color-bg-sidebar: #f5f5f5;
+$color-sidebar-links: #515151;
+$color-sidebar-active-links: #2196f3;
+$color-sidebar-header: #111;
+
+.sidebar {
+	position: fixed;
+	width: 300px;
+	top: 0;
+}
+
+// Sidebar Top Section
+.sidebar-top {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	background: $color-bg-sidebar-top;
+	color: $color-sidebar-top;
+	.logo {
+		width: 60px;
+	}
+	.text {
+		.title {
+			font-size: 14px;
+			letter-spacing: 0.7px;
+			text-transform: uppercase;
+		}
+		.sub-title {
+			font-size: 14px;
+			letter-spacing: 0.7px;
+			text-transform: uppercase;
+		}
+	}
+}
+
+// Sidebar Main Section
+.sidebar-main {
+	background: $color-bg-sidebar;
+	height: 100vh;
+	overflow: auto;
+	padding-bottom: 85px;
+	section {
+		header {
+			a {
+				padding: 20px 20px 10px;
+				color: $color-sidebar-header;
+				display: block;
+			}
+		}
+		.sidebar-link {
+			a {
+				display: block;
+				padding: 4px 20px;
+				color: $color-sidebar-links;
+				&:hover {
+					color: $color-sidebar-active-links;
+				}
+			}
+		}
+	}
+}
