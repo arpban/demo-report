@@ -1,0 +1,4066 @@
+{
+    "_id" : "5b87b7c867379d1001998dd5",
+    "company_name" : "Vardhman Text",
+    "company_name_condensed" : "vardhmantextiles",
+    "mc_code" : "VT10",
+    "industry" : "Textiles - Spinning - Cotton Blended",
+    "balance_sheet_s" : [ 
+        {
+            "time_period" : "Mar 18",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "57.43",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "57.43",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "4,574.53",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "4,574.53",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "4,631.96",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,195.55",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "235.60",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "22.83",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "7.04",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,461.02",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "805.51",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "196.19",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "596.46",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "4.82",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,602.98",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "7,695.96",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,611.85",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "0.00",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "0.00",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,611.85",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.59",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "94.23",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,494.63",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "2,116.51",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "727.32",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "68.31",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "45.21",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "439.94",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "4,201.33",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "7,695.96",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "0.00",
+                "text" : "Contingent Liabilities"
+            },
+            "cif_value_of_imports" : {
+                "value" : "",
+                "text" : "CIF VALUE OF IMPORTS",
+                "is_heading" : true
+            },
+            "raw_materials" : {
+                "value" : "0.00",
+                "text" : "Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "0.00",
+                "text" : "Stores, Spares And Loose Tools"
+            },
+            "capital_goods" : {
+                "value" : "0.00",
+                "text" : "Capital Goods"
+            },
+            "expenditure_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EXPENDITURE IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "expenditure_in_foreign_currency" : {
+                "value" : "0.00",
+                "text" : "Expenditure In Foreign Currency"
+            },
+            "remittances_in_foreign_currencies_for_dividends" : {
+                "value" : "",
+                "text" : "REMITTANCES IN FOREIGN CURRENCIES FOR DIVIDENDS",
+                "is_heading" : true
+            },
+            "dividend_remittance_in_foreign_currency" : {
+                "value" : "-",
+                "text" : "Dividend Remittance In Foreign Currency"
+            },
+            "earnings_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EARNINGS IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "fob_value_of_goods" : {
+                "value" : "-",
+                "text" : "FOB Value Of Goods"
+            },
+            "other_earnings" : {
+                "value" : "-",
+                "text" : "Other Earnings"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "-",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "-",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "-",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "-",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "-",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 17",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "55.93",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "55.93",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,929.92",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,929.92",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,985.85",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "719.35",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "238.40",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "21.50",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "8.90",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "988.15",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "1,055.06",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "177.41",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "747.77",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "4.29",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,984.53",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "6,958.53",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,451.41",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "6.74",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "48.54",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,506.69",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.61",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "67.77",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,547.27",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,589.00",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "717.91",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "40.47",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "36.56",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "356.71",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,411.26",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "6,958.53",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "197.63",
+                "text" : "Contingent Liabilities"
+            },
+            "cif_value_of_imports" : {
+                "value" : "",
+                "text" : "CIF VALUE OF IMPORTS",
+                "is_heading" : true
+            },
+            "raw_materials" : {
+                "value" : "0.00",
+                "text" : "Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "0.00",
+                "text" : "Stores, Spares And Loose Tools"
+            },
+            "capital_goods" : {
+                "value" : "0.00",
+                "text" : "Capital Goods"
+            },
+            "expenditure_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EXPENDITURE IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "expenditure_in_foreign_currency" : {
+                "value" : "439.33",
+                "text" : "Expenditure In Foreign Currency"
+            },
+            "remittances_in_foreign_currencies_for_dividends" : {
+                "value" : "",
+                "text" : "REMITTANCES IN FOREIGN CURRENCIES FOR DIVIDENDS",
+                "is_heading" : true
+            },
+            "dividend_remittance_in_foreign_currency" : {
+                "value" : "-",
+                "text" : "Dividend Remittance In Foreign Currency"
+            },
+            "earnings_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EARNINGS IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "fob_value_of_goods" : {
+                "value" : "2,206.91",
+                "text" : "FOB Value Of Goods"
+            },
+            "other_earnings" : {
+                "value" : "-",
+                "text" : "Other Earnings"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.43",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "1,202.82",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "79.05",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "670.60",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "-",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 16",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "62.05",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "62.05",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,627.87",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,627.87",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,689.92",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,022.24",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "206.39",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "20.51",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "5.93",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,255.07",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "1,016.82",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "145.91",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "872.40",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "5.21",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "2,040.34",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "6,985.33",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,489.04",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "11.08",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "84.83",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,584.95",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.76",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "88.92",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,744.47",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,809.12",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "770.00",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "276.77",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "29.28",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "355.11",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,240.87",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "6,985.33",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "129.75",
+                "text" : "Contingent Liabilities"
+            },
+            "cif_value_of_imports" : {
+                "value" : "",
+                "text" : "CIF VALUE OF IMPORTS",
+                "is_heading" : true
+            },
+            "raw_materials" : {
+                "value" : "225.07",
+                "text" : "Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "59.58",
+                "text" : "Stores, Spares And Loose Tools"
+            },
+            "capital_goods" : {
+                "value" : "118.17",
+                "text" : "Capital Goods"
+            },
+            "expenditure_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EXPENDITURE IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "expenditure_in_foreign_currency" : {
+                "value" : "435.44",
+                "text" : "Expenditure In Foreign Currency"
+            },
+            "remittances_in_foreign_currencies_for_dividends" : {
+                "value" : "",
+                "text" : "REMITTANCES IN FOREIGN CURRENCIES FOR DIVIDENDS",
+                "is_heading" : true
+            },
+            "dividend_remittance_in_foreign_currency" : {
+                "value" : "-",
+                "text" : "Dividend Remittance In Foreign Currency"
+            },
+            "earnings_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EARNINGS IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "fob_value_of_goods" : {
+                "value" : "2,274.86",
+                "text" : "FOB Value Of Goods"
+            },
+            "other_earnings" : {
+                "value" : "-",
+                "text" : "Other Earnings"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.43",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "1,069.39",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "178.85",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "0.59",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "-",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 15",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "63.65",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "63.65",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,019.73",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,019.73",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,083.38",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,317.26",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "198.48",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "14.46",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "5.15",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,535.35",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "468.55",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "129.55",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "1,004.32",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "83.68",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,686.09",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "6,304.82",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,482.34",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "13.93",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "76.78",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,573.05",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "72.31",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "123.86",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,343.98",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,636.73",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "676.82",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "175.55",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "354.45",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "17.88",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "2,960.84",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "6,304.82",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "962.91",
+                "text" : "Contingent Liabilities"
+            },
+            "cif_value_of_imports" : {
+                "value" : "",
+                "text" : "CIF VALUE OF IMPORTS",
+                "is_heading" : true
+            },
+            "raw_materials" : {
+                "value" : "171.36",
+                "text" : "Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "63.51",
+                "text" : "Stores, Spares And Loose Tools"
+            },
+            "capital_goods" : {
+                "value" : "86.62",
+                "text" : "Capital Goods"
+            },
+            "expenditure_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EXPENDITURE IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "expenditure_in_foreign_currency" : {
+                "value" : "44.17",
+                "text" : "Expenditure In Foreign Currency"
+            },
+            "remittances_in_foreign_currencies_for_dividends" : {
+                "value" : "",
+                "text" : "REMITTANCES IN FOREIGN CURRENCIES FOR DIVIDENDS",
+                "is_heading" : true
+            },
+            "dividend_remittance_in_foreign_currency" : {
+                "value" : "-",
+                "text" : "Dividend Remittance In Foreign Currency"
+            },
+            "earnings_in_foreign_exchange" : {
+                "value" : "",
+                "text" : "EARNINGS IN FOREIGN EXCHANGE",
+                "is_heading" : true
+            },
+            "fob_value_of_goods" : {
+                "value" : "2,442.48",
+                "text" : "FOB Value Of Goods"
+            },
+            "other_earnings" : {
+                "value" : "-",
+                "text" : "Other Earnings"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.43",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "529.64",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "177.42",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "25.00",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "74.64",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 14",
+            "equity_share_capital" : {
+                "value" : "63.65",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "63.65",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "2,784.67",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "2,784.67",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "2,848.32",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,925.06",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "266.15",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "12.34",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "4.42",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "2,207.97",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "835.50",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "96.61",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "808.52",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "83.26",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,823.90",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "6,880.19",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,760.42",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "14.27",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "84.58",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,859.26",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "493.18",
+                "text" : "Non-Current Investments"
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "88.95",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "30.05",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,471.44",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_investments" : {
+                "value" : "219.16",
+                "text" : "Current Investments"
+            },
+            "inventories" : {
+                "value" : "1,871.54",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "735.57",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "52.75",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "511.86",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "17.88",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,408.75",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "6,880.19",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "308.97",
+                "text" : "Contingent Liabilities"
+            },
+            "raw_materials" : {
+                "value" : "215.77",
+                "text" : "Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "64.31",
+                "text" : "Stores, Spares And Loose Tools"
+            },
+            "capital_goods" : {
+                "value" : "287.62",
+                "text" : "Capital Goods"
+            },
+            "expenditure_in_foreign_currency" : {
+                "value" : "34.01",
+                "text" : "Expenditure In Foreign Currency"
+            },
+            "dividend_remittance_in_foreign_currency" : {
+                "value" : "-",
+                "text" : "Dividend Remittance In Foreign Currency"
+            },
+            "fob_value_of_goods" : {
+                "value" : "2,007.91",
+                "text" : "FOB Value Of Goods"
+            },
+            "other_earnings" : {
+                "value" : "-",
+                "text" : "Other Earnings"
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.43",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "341.29",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "177.70",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "214.10",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "19.41",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }
+    ],
+    "balance_sheet_c" : [ 
+        {
+            "time_period" : "Mar 18",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "56.43",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "56.43",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "4,897.27",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "4,897.27",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "4,953.70",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "108.78",
+                "text" : "Minority Interest"
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,209.77",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "255.62",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "22.83",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "7.69",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,495.91",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "821.19",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "239.86",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "619.18",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "5.47",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,685.70",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "8,244.09",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,724.11",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "0.00",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "0.00",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,724.11",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.59",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "106.71",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,698.49",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "2,256.64",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "757.53",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "73.76",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "29.80",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "448.78",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "4,545.60",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "8,244.09",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "0.00",
+                "text" : "Contingent Liabilities"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "0.00",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "0.00",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "0.00",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "0.00",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "0.00",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 17",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "54.91",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "54.91",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "4,218.32",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "4,218.32",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "4,273.22",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "112.19",
+                "text" : "Minority Interest"
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "742.70",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "271.19",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "21.52",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "9.69",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,045.10",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "1,066.32",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "245.15",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "769.91",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "4.65",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "2,086.03",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "7,516.54",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,571.32",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "6.74",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "49.03",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,627.09",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.62",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "80.44",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,654.62",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,752.81",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "733.50",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "44.65",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "29.71",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "366.86",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,861.93",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "7,516.54",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "203.81",
+                "text" : "Contingent Liabilities"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.05",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "852.53",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "6.22",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "934.40",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "0.00",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 16",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "60.92",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "60.92",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,938.97",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,938.97",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,999.89",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "103.05",
+                "text" : "Minority Interest"
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,039.72",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "237.74",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "20.69",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "6.36",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,304.51",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "1,030.75",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "180.33",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "889.32",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "5.46",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "2,105.86",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "7,513.31",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,603.33",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "11.08",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "86.01",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,700.43",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "0.81",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "103.19",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,969.37",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,925.12",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "777.59",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "278.87",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "30.33",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "371.74",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,543.93",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "7,513.31",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "148.31",
+                "text" : "Contingent Liabilities"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.05",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "947.22",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "6.16",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "160.28",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "0.00",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 15",
+            "equities_and_liabilities" : {
+                "value" : "",
+                "text" : "EQUITIES AND LIABILITIES",
+                "is_heading" : true
+            },
+            "shareholders_funds" : {
+                "value" : "",
+                "text" : "SHAREHOLDER'S FUNDS",
+                "is_heading" : true
+            },
+            "equity_share_capital" : {
+                "value" : "62.52",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "62.52",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,312.77",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,312.77",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,375.28",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "441.02",
+                "text" : "Minority Interest"
+            },
+            "non_current_liabilities" : {
+                "value" : "",
+                "text" : "NON-CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "long_term_borrowings" : {
+                "value" : "1,418.32",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "223.25",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "14.64",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "9.44",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "1,665.66",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "current_liabilities" : {
+                "value" : "",
+                "text" : "CURRENT LIABILITIES",
+                "is_heading" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "473.66",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "220.89",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "1,088.90",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "113.02",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,896.47",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "7,378.43",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "assets" : {
+                "value" : "",
+                "text" : "ASSETS",
+                "is_heading" : true
+            },
+            "non_current_assets" : {
+                "value" : "",
+                "text" : "NON-CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "tangible_assets" : {
+                "value" : "2,840.24",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "22.49",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "83.24",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "2,945.97",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "",
+                "text" : "NON-CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "77.99",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "124.04",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,617.38",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_assets" : {
+                "value" : "",
+                "text" : "CURRENT ASSETS",
+                "is_heading" : true
+            },
+            "current_investments" : {
+                "value" : "",
+                "text" : "CURRENT INVESTMENTS",
+                "is_heading" : true
+            },
+            "inventories" : {
+                "value" : "1,915.75",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "809.51",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "202.76",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "400.18",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "21.02",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "3,761.05",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "7,378.43",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "contingent_liabilities_commitments" : {
+                "value" : "",
+                "text" : "CONTINGENT LIABILITIES, COMMITMENTS",
+                "is_heading" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "379.59",
+                "text" : "Contingent Liabilities"
+            },
+            "bonus_details" : {
+                "value" : "",
+                "text" : "BONUS DETAILS",
+                "is_heading" : true
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.05",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "491.17",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "4.08",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "121.82",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "294.55",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }, 
+        {
+            "time_period" : "Mar 14",
+            "equity_share_capital" : {
+                "value" : "62.52",
+                "text" : "Equity Share Capital"
+            },
+            "total_share_capital" : {
+                "value" : "62.52",
+                "text" : "Total Share Capital",
+                "is_bold" : true
+            },
+            "reserves_and_surplus" : {
+                "value" : "3,069.50",
+                "text" : "Reserves and Surplus"
+            },
+            "total_reserves_and_surplus" : {
+                "value" : "3,069.50",
+                "text" : "Total Reserves and Surplus",
+                "is_bold" : true
+            },
+            "total_shareholders_funds" : {
+                "value" : "3,132.02",
+                "text" : "Total Shareholders Funds",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "396.34",
+                "text" : "Minority Interest"
+            },
+            "long_term_borrowings" : {
+                "value" : "2,055.16",
+                "text" : "Long Term Borrowings"
+            },
+            "deferred_tax_liabilities_net" : {
+                "value" : "292.40",
+                "text" : "Deferred Tax Liabilities [Net]"
+            },
+            "other_long_term_liabilities" : {
+                "value" : "12.55",
+                "text" : "Other Long Term Liabilities"
+            },
+            "long_term_provisions" : {
+                "value" : "6.02",
+                "text" : "Long Term Provisions"
+            },
+            "total_non_current_liabilities" : {
+                "value" : "2,366.13",
+                "text" : "Total Non-Current Liabilities",
+                "is_bold" : true
+            },
+            "short_term_borrowings" : {
+                "value" : "840.73",
+                "text" : "Short Term Borrowings"
+            },
+            "trade_payables" : {
+                "value" : "160.66",
+                "text" : "Trade Payables"
+            },
+            "other_current_liabilities" : {
+                "value" : "870.41",
+                "text" : "Other Current Liabilities"
+            },
+            "short_term_provisions" : {
+                "value" : "98.47",
+                "text" : "Short Term Provisions"
+            },
+            "total_current_liabilities" : {
+                "value" : "1,970.27",
+                "text" : "Total Current Liabilities",
+                "is_bold" : true
+            },
+            "total_capital_and_liabilities" : {
+                "value" : "7,864.76",
+                "text" : "Total Capital And Liabilities",
+                "is_bold" : true
+            },
+            "tangible_assets" : {
+                "value" : "3,114.87",
+                "text" : "Tangible Assets"
+            },
+            "intangible_assets" : {
+                "value" : "25.72",
+                "text" : "Intangible Assets"
+            },
+            "capital_work_in_progress" : {
+                "value" : "94.40",
+                "text" : "Capital Work-In-Progress"
+            },
+            "fixed_assets" : {
+                "value" : "3,234.98",
+                "text" : "Fixed Assets",
+                "is_bold" : true
+            },
+            "non_current_investments" : {
+                "value" : "371.43",
+                "text" : "Non-Current Investments"
+            },
+            "long_term_loans_and_advances" : {
+                "value" : "87.43",
+                "text" : "Long Term Loans And Advances"
+            },
+            "other_non_current_assets" : {
+                "value" : "30.29",
+                "text" : "Other Non-Current Assets"
+            },
+            "total_non_current_assets" : {
+                "value" : "3,737.39",
+                "text" : "Total Non-Current Assets",
+                "is_bold" : true
+            },
+            "current_investments" : {
+                "value" : "412.12",
+                "text" : "Current Investments"
+            },
+            "inventories" : {
+                "value" : "2,192.42",
+                "text" : "Inventories"
+            },
+            "trade_receivables" : {
+                "value" : "867.85",
+                "text" : "Trade Receivables"
+            },
+            "cash_and_cash_equivalents" : {
+                "value" : "80.75",
+                "text" : "Cash And Cash Equivalents"
+            },
+            "short_term_loans_and_advances" : {
+                "value" : "552.02",
+                "text" : "Short Term Loans And Advances"
+            },
+            "othercurrentassets" : {
+                "value" : "22.20",
+                "text" : "OtherCurrentAssets"
+            },
+            "total_current_assets" : {
+                "value" : "4,127.37",
+                "text" : "Total Current Assets",
+                "is_bold" : true
+            },
+            "total_assets" : {
+                "value" : "7,864.76",
+                "text" : "Total Assets",
+                "is_bold" : true
+            },
+            "contingent_liabilities" : {
+                "value" : "335.93",
+                "text" : "Contingent Liabilities"
+            },
+            "bonus_equity_share_capital" : {
+                "value" : "35.05",
+                "text" : "Bonus Equity Share Capital"
+            },
+            "non_current_investments_quoted_market_value" : {
+                "value" : "465.47",
+                "text" : "Non-Current Investments Quoted Market Value"
+            },
+            "non_current_investments_unquoted_book_value" : {
+                "value" : "3.97",
+                "text" : "Non-Current Investments Unquoted Book Value"
+            },
+            "current_investments_quoted_market_value" : {
+                "value" : "401.49",
+                "text" : "Current Investments Quoted Market Value"
+            },
+            "current_investments_unquoted_book_value" : {
+                "value" : "49.27",
+                "text" : "Current Investments Unquoted Book Value"
+            }
+        }
+    ],
+    "pl_statement_s" : [ 
+        {
+            "time_period" : "Mar 18",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,851.37",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.00",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,851.37",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "0.00",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,851.37",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "185.06",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,036.43",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "3,180.52",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "33.63",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-48.01",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "479.63",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "114.32",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "228.55",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,347.04",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,335.68",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "" : {
+                "value" : "12 mths",
+                "text" : ""
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "700.75",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "700.75",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "154.99",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "0.00",
+                "text" : "Deferred Tax"
+            },
+            "total_tax_expenses" : {
+                "value" : "154.99",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "545.76",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "545.76",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "545.76",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "96.41",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "95.45",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "value_of_imported_and_indigenious_raw_materials" : {
+                "value" : "",
+                "text" : "VALUE OF IMPORTED AND INDIGENIOUS RAW MATERIALS",
+                "is_heading" : true
+            },
+            "imported_raw_materials" : {
+                "value" : "0.00",
+                "text" : "Imported Raw Materials"
+            },
+            "indigenous_raw_materials" : {
+                "value" : "0.00",
+                "text" : "Indigenous Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "",
+                "text" : "STORES, SPARES AND LOOSE TOOLS",
+                "is_heading" : true
+            },
+            "imported_stores_and_spares" : {
+                "value" : "0.00",
+                "text" : "Imported Stores And Spares"
+            },
+            "indigenous_stores_and_spares" : {
+                "value" : "0.00",
+                "text" : "Indigenous Stores And Spares"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "0.00",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "0.00",
+                "text" : "Tax On Dividend"
+            },
+            "equity_dividend_rate_percent" : {
+                "value" : "150.00",
+                "text" : "Equity Dividend Rate (%)"
+            }
+        }, 
+        {
+            "time_period" : "Mar 17",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,578.29",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.52",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,577.78",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "149.99",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,727.77",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "567.58",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,295.35",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,836.69",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "29.20",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-74.18",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "453.61",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "91.83",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "329.49",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,323.88",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "4,990.54",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "" : {
+                "value" : "12 mths",
+                "text" : ""
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "1,304.81",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "1,304.81",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "281.57",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "10.30",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "31.95",
+                "text" : "Deferred Tax"
+            },
+            "total_tax_expenses" : {
+                "value" : "303.22",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "1,001.59",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "1,001.59",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "1,001.59",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "163.67",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "163.67",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "value_of_imported_and_indigenious_raw_materials" : {
+                "value" : "",
+                "text" : "VALUE OF IMPORTED AND INDIGENIOUS RAW MATERIALS",
+                "is_heading" : true
+            },
+            "imported_raw_materials" : {
+                "value" : "0.00",
+                "text" : "Imported Raw Materials"
+            },
+            "indigenous_raw_materials" : {
+                "value" : "0.00",
+                "text" : "Indigenous Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "",
+                "text" : "STORES, SPARES AND LOOSE TOOLS",
+                "is_heading" : true
+            },
+            "imported_stores_and_spares" : {
+                "value" : "0.00",
+                "text" : "Imported Stores And Spares"
+            },
+            "indigenous_stores_and_spares" : {
+                "value" : "0.00",
+                "text" : "Indigenous Stores And Spares"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "0.00",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "0.00",
+                "text" : "Tax On Dividend"
+            },
+            "equity_dividend_rate_percent" : {
+                "value" : "150.00",
+                "text" : "Equity Dividend Rate (%)"
+            }
+        }, 
+        {
+            "time_period" : "Mar 16",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,468.30",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.54",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,467.76",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "145.66",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,613.42",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "240.97",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "5,854.39",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,667.15",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "67.15",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "12.20",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "410.43",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "86.71",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "363.10",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,348.27",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "4,955.01",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "" : {
+                "value" : "12 mths",
+                "text" : ""
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "899.38",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "899.38",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "221.84",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "1.14",
+                "text" : "Deferred Tax"
+            },
+            "total_tax_expenses" : {
+                "value" : "222.99",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "676.40",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "676.40",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "676.40",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "109.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "109.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "value_of_imported_and_indigenious_raw_materials" : {
+                "value" : "",
+                "text" : "VALUE OF IMPORTED AND INDIGENIOUS RAW MATERIALS",
+                "is_heading" : true
+            },
+            "imported_raw_materials" : {
+                "value" : "246.40",
+                "text" : "Imported Raw Materials"
+            },
+            "indigenous_raw_materials" : {
+                "value" : "2,415.13",
+                "text" : "Indigenous Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "",
+                "text" : "STORES, SPARES AND LOOSE TOOLS",
+                "is_heading" : true
+            },
+            "imported_stores_and_spares" : {
+                "value" : "57.60",
+                "text" : "Imported Stores And Spares"
+            },
+            "indigenous_stores_and_spares" : {
+                "value" : "370.60",
+                "text" : "Indigenous Stores And Spares"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "159.13",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "1.09",
+                "text" : "Tax On Dividend"
+            },
+            "equity_dividend_rate_percent" : {
+                "value" : "150.00",
+                "text" : "Equity Dividend Rate (%)"
+            }
+        }, 
+        {
+            "time_period" : "Mar 15",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,607.30",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.60",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,606.70",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "135.34",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,742.03",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "158.07",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "5,900.10",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,900.52",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "74.42",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "131.03",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "350.83",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "121.54",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "488.85",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,343.65",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,410.83",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "" : {
+                "value" : "12 mths",
+                "text" : ""
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "489.27",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "489.27",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "186.00",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "-55.84",
+                "text" : "Deferred Tax"
+            },
+            "total_tax_expenses" : {
+                "value" : "130.16",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "359.11",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "359.11",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "359.11",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "56.42",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "56.42",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "value_of_imported_and_indigenious_raw_materials" : {
+                "value" : "",
+                "text" : "VALUE OF IMPORTED AND INDIGENIOUS RAW MATERIALS",
+                "is_heading" : true
+            },
+            "imported_raw_materials" : {
+                "value" : "210.74",
+                "text" : "Imported Raw Materials"
+            },
+            "indigenous_raw_materials" : {
+                "value" : "2,680.76",
+                "text" : "Indigenous Raw Materials"
+            },
+            "stores_spares_and_loose_tools" : {
+                "value" : "",
+                "text" : "STORES, SPARES AND LOOSE TOOLS",
+                "is_heading" : true
+            },
+            "imported_stores_and_spares" : {
+                "value" : "83.05",
+                "text" : "Imported Stores And Spares"
+            },
+            "indigenous_stores_and_spares" : {
+                "value" : "341.56",
+                "text" : "Indigenous Stores And Spares"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "63.65",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "13.32",
+                "text" : "Tax On Dividend"
+            },
+            "equity_dividend_rate_percent" : {
+                "value" : "100.00",
+                "text" : "Equity Dividend Rate (%)"
+            }
+        }, 
+        {
+            "time_period" : "Mar 14",
+            "revenue_from_operations_gross" : {
+                "value" : "5,064.25",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.56",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,063.69",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "107.62",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,171.31",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "64.58",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "5,235.89",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,512.39",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "57.13",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-229.47",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "320.17",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "151.83",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "294.13",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,250.34",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "4,356.51",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "" : {
+                "value" : "12 mths",
+                "text" : ""
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "879.38",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "879.38",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "188.50",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "39.00",
+                "text" : "Deferred Tax"
+            },
+            "total_tax_expenses" : {
+                "value" : "227.50",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "651.88",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "651.88",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "651.88",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "102.41",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "102.41",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "imported_raw_materials" : {
+                "value" : "209.90",
+                "text" : "Imported Raw Materials"
+            },
+            "indigenous_raw_materials" : {
+                "value" : "2,322.24",
+                "text" : "Indigenous Raw Materials"
+            },
+            "imported_stores_and_spares" : {
+                "value" : "54.86",
+                "text" : "Imported Stores And Spares"
+            },
+            "indigenous_stores_and_spares" : {
+                "value" : "327.92",
+                "text" : "Indigenous Stores And Spares"
+            },
+            "equity_share_dividend" : {
+                "value" : "70.02",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "10.11",
+                "text" : "Tax On Dividend"
+            },
+            "equity_dividend_rate_percent" : {
+                "value" : "110.00",
+                "text" : "Equity Dividend Rate (%)"
+            }
+        }
+    ],
+    "pl_statement_c" : [ 
+        {
+            "time_period" : "Mar 18",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "6,248.27",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.00",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "6,248.27",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "0.00",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "6,248.27",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "197.35",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,445.62",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "3,438.28",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "4.15",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-37.87",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "506.26",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "118.19",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "240.00",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,434.49",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,703.50",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "742.12",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "742.12",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "167.19",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "0.00",
+                "text" : "Deferred Tax"
+            },
+            "tax_for_earlier_years" : {
+                "value" : "0.00",
+                "text" : "Tax For Earlier Years"
+            },
+            "total_tax_expenses" : {
+                "value" : "167.19",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "574.93",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "574.93",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "574.93",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "-11.25",
+                "text" : "Minority Interest"
+            },
+            "share_of_profit_loss_of_associates" : {
+                "value" : "17.51",
+                "text" : "Share Of Profit/Loss Of Associates"
+            },
+            "consolidated_profit_loss_after_mi_and_associates" : {
+                "value" : "581.19",
+                "text" : "Consolidated Profit/Loss After MI And Associates",
+                "is_heading" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "107.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "105.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "0.00",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "0.00",
+                "text" : "Tax On Dividend"
+            }
+        }, 
+        {
+            "time_period" : "Mar 17",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,906.90",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "32.50",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,874.40",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "159.87",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "6,034.27",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "491.52",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,525.79",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "3,015.80",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "5.40",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-90.82",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "478.85",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "92.95",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "343.40",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,399.13",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,244.71",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "1,281.08",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "1,281.08",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "302.63",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "12.40",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "33.42",
+                "text" : "Deferred Tax"
+            },
+            "tax_for_earlier_years" : {
+                "value" : "0.00",
+                "text" : "Tax For Earlier Years"
+            },
+            "total_tax_expenses" : {
+                "value" : "323.66",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "957.42",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "957.42",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "957.42",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "-12.86",
+                "text" : "Minority Interest"
+            },
+            "share_of_profit_loss_of_associates" : {
+                "value" : "36.86",
+                "text" : "Share Of Profit/Loss Of Associates"
+            },
+            "consolidated_profit_loss_after_mi_and_associates" : {
+                "value" : "981.41",
+                "text" : "Consolidated Profit/Loss After MI And Associates",
+                "is_heading" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "163.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "163.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "0.00",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "0.00",
+                "text" : "Tax On Dividend"
+            }
+        }, 
+        {
+            "time_period" : "Mar 16",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "5,746.51",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "0.00",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "5,746.51",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "148.77",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "5,895.28",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "110.49",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,005.76",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,798.47",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "18.60",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "10.07",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "433.79",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "88.86",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "374.25",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,458.04",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,182.08",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "823.68",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "823.68",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "238.98",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "-0.04",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "8.43",
+                "text" : "Deferred Tax"
+            },
+            "tax_for_earlier_years" : {
+                "value" : "0.00",
+                "text" : "Tax For Earlier Years"
+            },
+            "total_tax_expenses" : {
+                "value" : "247.44",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "576.24",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "576.24",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "576.24",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "-9.48",
+                "text" : "Minority Interest"
+            },
+            "share_of_profit_loss_of_associates" : {
+                "value" : "47.83",
+                "text" : "Share Of Profit/Loss Of Associates"
+            },
+            "consolidated_profit_loss_after_mi_and_associates" : {
+                "value" : "614.59",
+                "text" : "Consolidated Profit/Loss After MI And Associates",
+                "is_heading" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "101.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "101.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "159.13",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "32.71",
+                "text" : "Tax On Dividend"
+            }
+        }, 
+        {
+            "time_period" : "Mar 15",
+            "income" : {
+                "value" : "",
+                "text" : "INCOME",
+                "is_heading" : true
+            },
+            "revenue_from_operations_gross" : {
+                "value" : "6,686.35",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "43.23",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "6,643.12",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "142.84",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "6,785.96",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "166.24",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,952.20",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "expenses" : {
+                "value" : "",
+                "text" : "EXPENSES",
+                "is_heading" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "3,345.56",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "4.40",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "140.35",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "448.37",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "124.87",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "532.21",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,734.26",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "6,330.03",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "622.17",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "622.17",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "tax_expenses_continued_operations" : {
+                "value" : "",
+                "text" : "Tax Expenses-Continued Operations",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "232.45",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "-55.93",
+                "text" : "Deferred Tax"
+            },
+            "tax_for_earlier_years" : {
+                "value" : "0.00",
+                "text" : "Tax For Earlier Years"
+            },
+            "total_tax_expenses" : {
+                "value" : "176.52",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "445.65",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "445.65",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "445.65",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "-45.44",
+                "text" : "Minority Interest"
+            },
+            "share_of_profit_loss_of_associates" : {
+                "value" : "0.00",
+                "text" : "Share Of Profit/Loss Of Associates"
+            },
+            "consolidated_profit_loss_after_mi_and_associates" : {
+                "value" : "400.21",
+                "text" : "Consolidated Profit/Loss After MI And Associates",
+                "is_heading" : true
+            },
+            "other_additional_information" : {
+                "value" : "",
+                "text" : "OTHER ADDITIONAL INFORMATION",
+                "is_heading" : true
+            },
+            "earnings_per_share" : {
+                "value" : "",
+                "text" : "EARNINGS PER SHARE",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "64.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "64.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "dividend_and_dividend_percentage" : {
+                "value" : "",
+                "text" : "DIVIDEND AND DIVIDEND PERCENTAGE",
+                "is_heading" : true
+            },
+            "equity_share_dividend" : {
+                "value" : "82.21",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "22.86",
+                "text" : "Tax On Dividend"
+            }
+        }, 
+        {
+            "time_period" : "Mar 14",
+            "revenue_from_operations_gross" : {
+                "value" : "6,092.34",
+                "text" : "Revenue From Operations [Gross]",
+                "is_heading" : true
+            },
+            "less:_excise_sevice_tax_other_levies" : {
+                "value" : "41.54",
+                "text" : "Less: Excise/Sevice Tax/Other Levies"
+            },
+            "revenue_from_operations_net" : {
+                "value" : "6,050.80",
+                "text" : "Revenue From Operations [Net]",
+                "is_heading" : true
+            },
+            "other_operating_revenues" : {
+                "value" : "115.63",
+                "text" : "Other Operating Revenues"
+            },
+            "total_operating_revenues" : {
+                "value" : "6,166.43",
+                "text" : "Total Operating Revenues",
+                "is_heading" : true
+            },
+            "other_income" : {
+                "value" : "73.92",
+                "text" : "Other Income"
+            },
+            "total_revenue" : {
+                "value" : "6,240.35",
+                "text" : "Total Revenue",
+                "is_bold" : true
+            },
+            "cost_of_materials_consumed" : {
+                "value" : "2,930.93",
+                "text" : "Cost Of Materials Consumed"
+            },
+            "purchase_of_stock_in_trade" : {
+                "value" : "3.69",
+                "text" : "Purchase Of Stock-In Trade"
+            },
+            "changes_in_inventories_of_fgwip_and_stock_in_trade" : {
+                "value" : "-231.76",
+                "text" : "Changes In Inventories Of FG,WIP And Stock-In Trade"
+            },
+            "employee_benefit_expenses" : {
+                "value" : "408.84",
+                "text" : "Employee Benefit Expenses"
+            },
+            "finance_costs" : {
+                "value" : "151.12",
+                "text" : "Finance Costs"
+            },
+            "depreciation_and_amortisation_expenses" : {
+                "value" : "335.48",
+                "text" : "Depreciation And Amortisation Expenses"
+            },
+            "other_expenses" : {
+                "value" : "1,594.44",
+                "text" : "Other Expenses"
+            },
+            "total_expenses" : {
+                "value" : "5,192.74",
+                "text" : "Total Expenses",
+                "is_bold" : true
+            },
+            "profit_loss_before_exceptional_extraordinary_items_and_tax" : {
+                "value" : "1,047.61",
+                "text" : "Profit/Loss Before Exceptional, ExtraOrdinary Items And Tax",
+                "is_bold" : true
+            },
+            "profit_loss_before_tax" : {
+                "value" : "1,047.61",
+                "text" : "Profit/Loss Before Tax",
+                "is_heading" : true
+            },
+            "current_tax" : {
+                "value" : "244.89",
+                "text" : "Current Tax"
+            },
+            "less:_mat_credit_entitlement" : {
+                "value" : "0.00",
+                "text" : "Less: MAT Credit Entitlement"
+            },
+            "deferred_tax" : {
+                "value" : "37.20",
+                "text" : "Deferred Tax"
+            },
+            "tax_for_earlier_years" : {
+                "value" : "0.01",
+                "text" : "Tax For Earlier Years"
+            },
+            "total_tax_expenses" : {
+                "value" : "282.10",
+                "text" : "Total Tax Expenses",
+                "is_heading" : true
+            },
+            "profit_loss_after_tax_and_before_extraordinary_items" : {
+                "value" : "765.52",
+                "text" : "Profit/Loss After Tax And Before ExtraOrdinary Items",
+                "is_heading" : true
+            },
+            "profit_loss_from_continuing_operations" : {
+                "value" : "765.52",
+                "text" : "Profit/Loss From Continuing Operations",
+                "is_heading" : true
+            },
+            "profit_loss_for_the_period" : {
+                "value" : "765.52",
+                "text" : "Profit/Loss For The Period",
+                "is_bold" : true
+            },
+            "minority_interest" : {
+                "value" : "-47.17",
+                "text" : "Minority Interest"
+            },
+            "share_of_profit_loss_of_associates" : {
+                "value" : "0.00",
+                "text" : "Share Of Profit/Loss Of Associates"
+            },
+            "consolidated_profit_loss_after_mi_and_associates" : {
+                "value" : "718.35",
+                "text" : "Consolidated Profit/Loss After MI And Associates",
+                "is_heading" : true
+            },
+            "basic_eps_rs" : {
+                "value" : "115.00",
+                "text" : "Basic EPS (Rs.)"
+            },
+            "diluted_eps_rs" : {
+                "value" : "115.00",
+                "text" : "Diluted EPS (Rs.)"
+            },
+            "equity_share_dividend" : {
+                "value" : "78.36",
+                "text" : "Equity Share Dividend"
+            },
+            "tax_on_dividend" : {
+                "value" : "15.82",
+                "text" : "Tax On Dividend"
+            }
+        }
+    ]
+}

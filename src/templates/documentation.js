@@ -87,7 +87,7 @@ export default ({ pathContext, location }) => {
 	return (
 		<div>
 			<Helmet>
-				<title>{page.frontmatter.title} &middot; HEML </title>
+				<title>{page.frontmatter.title}</title>
 			</Helmet>
 
 			<SiteWrapper>
